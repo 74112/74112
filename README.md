@@ -1,0 +1,2 @@
+Noob
+Begginer in Python
